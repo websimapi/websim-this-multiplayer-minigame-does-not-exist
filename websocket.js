@@ -1,0 +1,2 @@
+const room = new WebsimSocket();
+
